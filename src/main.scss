@@ -1,6 +1,13 @@
-$color1: #00aaa0;
+$color1: #6FEDD6;
+$font1: 'Petit Formal Script', cursive;
 
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
 
 
 
@@ -10,4 +17,5 @@ $color1: #00aaa0;
 @import "./components/home/Home";
 @import "./components/sweets/Sweets";
 @import "./components/Navbar/Navbar";
+@import "./components/Header/Header"
 
