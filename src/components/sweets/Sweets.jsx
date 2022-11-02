@@ -2,7 +2,8 @@ import React from 'react'
 
 const Sweets = () => {
   return (
-    <div>Sweets</div>
+    <div className='sweets__container'>Sweets
+    </div>
   )
 }
 
