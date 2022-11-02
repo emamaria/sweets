@@ -12,7 +12,16 @@
     align-items: center;
     justify-content: center;
     border-bottom: 3px solid $color1;
-    position: absolute;
-    width: 100%;
-    bottom: 0px;
+  
 }
+
+@media (max-width:600px) {
+ 
+    .navbar{
+        &__menu__link{
+            font-size: 20px;
+        }
+    }
+
+  }
+
