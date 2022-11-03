@@ -6,7 +6,7 @@ const Sweet = ({ price, quantity, name}) => {
         <img src={`/assets/sweets/${name.split(" ").join("_")}.jpg`} alt={name}/>
         <h3>{name}</h3>
         <p>1 {quantity}</p>
-        <p>price: {price}</p>
+        <p>Price: {price}€</p>
     </div>
   )
 }
