@@ -65,12 +65,12 @@ export const sweetData = [
         size: "unit",    
     },
     {
-        name: "chocolate_donut" ,
+        name: "chocolate donut" ,
         price: 1,
         size: "unit",    
     },
     {
-        name: "glazed_donut" ,
+        name: "glazed donut" ,
         price: 1,
         size: "unit",    
     },
