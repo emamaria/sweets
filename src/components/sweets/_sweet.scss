@@ -1,0 +1,16 @@
+.sweet_container{
+    margin: 10px;
+    width: 440px;
+    height: 460px;
+    background: white;
+   img{
+    width: 360px;
+    margin-bottom: 15px;
+   
+    }
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

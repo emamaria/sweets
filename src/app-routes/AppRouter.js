@@ -11,8 +11,7 @@ import Sweets from '../components/sweets/Sweets'
 const AppRouter = () => {
   return (
     
-    
-    <Router>
+     <Router>
       <Header/>
       <Navbar/>
        <Routes>
