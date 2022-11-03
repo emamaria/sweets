@@ -50,7 +50,7 @@ export const sweetData = [
         size: "unit",    
     },
     {
-        name: "apple pie" ,
+        name: "apple pie with ice cream" ,
          price: 1,
         size: "piece",    
     },
