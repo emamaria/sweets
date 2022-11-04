@@ -15,6 +15,11 @@ export const drinkData = [
         size: "cup",    
     },
     {
+        name: "coffee" ,
+        price: 1.40,
+        size: "cup",    
+    },
+    {
         name: "ice tea" ,
         price: 1.70,
         size: "cup",    
@@ -30,14 +35,16 @@ export const drinkData = [
         size: "cup",    
     },
     {
-        name: "coffee" ,
-        price: 1.40,
+        name: "orange juice" ,
+        price: 1.80,
         size: "cup",    
     },
     {
-        name: "choco frappe" ,
-        price: 3.20,
+        name: "apple smoothie" ,
+        price: 2.40,
         size: "cup",    
-    }
+    },
+    
+   
 
 ]
