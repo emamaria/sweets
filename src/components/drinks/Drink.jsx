@@ -6,7 +6,7 @@ const Drink = ({name, quantity, price }) => {
         <img src={`/assets/drinks/${name.split(" ").join("_")}.jpg`} alt={name}/>
         <h3>{name[0].toUpperCase() + name.substring(1)}</h3>
         <p>1 {quantity}</p>
-        <p>Price: {price}€</p>
+        <p>Price: {price.toFixed(2)}€</p>
     </div>
   )
 }
