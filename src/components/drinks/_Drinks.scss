@@ -1,4 +1,25 @@
+
 .drinks__container{
-    background: $color1;
-    
-}
+  
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+   margin-top: 10px;
+   background: $color1;
+   
+ 
+  }
+ 
+  .drinks_screen{
+    margin-top: 100px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ 
+   
+   
+  }
+ 
+ 
